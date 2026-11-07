@@ -81,3 +81,11 @@ streamlit run notebooks/app.py
 
 ## Author
 Priya Rajesh Nayak
+
+## 🚀 Live Demo
+
+Try the deployed Customer Churn Prediction application:
+
+**[Open Customer Churn Prediction App](https://customer-churn-prediction-priyanayak.streamlit.app/)**
+
+The application allows users to enter customer details and receive a churn prediction along with the estimated churn probability.
